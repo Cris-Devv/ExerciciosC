@@ -1,2 +1,2 @@
 # ExerciciosC
-Questões de C das aulas de Logíca Matemática e Algorítmo
+Questões de C das aulas de Logíca Matemática e Algorítmo da FICR
